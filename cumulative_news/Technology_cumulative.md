@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-10 23:16
+**最后更新时间**: 2025-11-11 05:17
+
+---
+
+## 🆕 最新更新 (2025-11-11 05:17)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软 Azure DevOps MCP Server 结束预览，正式普遍可用](https://www.infoq.cn/article/gVzLyK704sC50hRLr13V?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 12:00
+
+#### [AI 时代的 10x 组织与 10x 个人｜AICon 前瞻](https://www.infoq.cn/article/vkrEp2CV0GawQJbTz7KF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 11:36
+
+#### [他们，诠释了 QCon 的技术厚度 | 2025 QCon 上海站优秀出品人与明星讲师揭晓](https://www.infoq.cn/article/zhfWgL389xuzlefRAN4i?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 11:32
+
+#### [Azure APIM通过原生服务总线策略简化了事件驱动架构](https://www.infoq.cn/article/tSFIrbOLSyWS4HcuOgO4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 11:00
+
+#### [文本到视频模型的训练数据预处理](https://www.infoq.cn/article/CQgKcJIOqF48LCN4Zjok?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 10:33
+
+#### [Java近期新闻：JDK 26的OpenJDK JEP、Spring RC、Quarkus、JReleaser、Seed4J和Gradle](https://www.infoq.cn/article/l84L5WZMzqeYJ0Og3cCB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 09:53
+
+#### [欧盟的云主权SEAL排名引入治理和韧性权衡](https://www.infoq.cn/article/DUuWeGQxPFvoPD6k7UER?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-11 09:49
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [台剧的「中女时代」](https://www.tmtpost.com/7758083.html)
+**发布时间**: 2025-11-11 11:58
+
+#### [福鑫数科宣布完成五千万元Pre-A轮融资，光源资本担任独家财务顾问，加速医疗AI创新落地 | 融资首发](https://www.tmtpost.com/7758544.html)
+**发布时间**: 2025-11-11 11:40
+
+#### [AI for Science驱动科研范式变革，青年科学家能力重构 | 巴伦精选](https://www.tmtpost.com/7758707.html)
+**发布时间**: 2025-11-11 11:31
+
+#### [从SKP到星巴克，为何博裕总能拿下好标的](https://www.tmtpost.com/7758127.html)
+**发布时间**: 2025-11-11 11:27
+
+#### [XDream Robotics Secures Million USD Funding to Advance Emotionally Intelligent Companion Robots](https://www.tmtpost.com/7758586.html)
+**发布时间**: 2025-11-11 10:55
+
+#### [“三巨头”业绩大分化，格力究竟怎么了？](https://www.tmtpost.com/7758194.html)
+**发布时间**: 2025-11-11 10:47
+
+#### [Beijing Hyundai Appoints Li Fenggang as General Manager in Major Push for Localization and EV Transformation in China](https://www.tmtpost.com/7758501.html)
+**发布时间**: 2025-11-11 10:36
+
+#### [马斯克的对手真的来了](https://www.tmtpost.com/7757906.html)
+**发布时间**: 2025-11-11 10:17
+
+#### [2025影视公司三季报：赚钱不赚钱，抓紧搞“副业”](https://www.tmtpost.com/7758066.html)
+**发布时间**: 2025-11-11 09:54
+
+#### [洋葱学园的解法：AI时代的自主学习革命](https://www.tmtpost.com/7758025.html)
+**发布时间**: 2025-11-11 09:42
+
+#### [从20岁的明略科技换马甲上市，看国内AI的泡沫有多大](https://www.tmtpost.com/7755675.html)
+**发布时间**: 2025-11-11 09:38
+
+#### [小红书，在商业化路上“狂飙”](https://www.tmtpost.com/7758049.html)
+**发布时间**: 2025-11-11 09:00
+
+#### [科股早知道：价格加速上涨，存储市场结构性缺货或将延续至2027年](https://www.tmtpost.com/7758158.html)
+**发布时间**: 2025-11-11 08:18
+
+#### [李凤刚执掌北京现代，韩系合资迎来首位本土掌舵人](https://www.tmtpost.com/7758174.html)
+**发布时间**: 2025-11-11 07:47
+
+#### [国务院13条"拆墙令"：民企真能"进门"吗？|马上评](https://www.tmtpost.com/7758129.html)
+**发布时间**: 2025-11-11 07:44
+
+#### [【钛晨报】进一步激发民间投资活力！13项政策举措出台；地平线高管张玉峰创业具身智能，红杉、线性领投3亿元天使融资｜独家；CPE源峰接手汉堡王中国约83%股份](https://www.tmtpost.com/7757959.html)
+**发布时间**: 2025-11-11 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [佳明 850 码表评测：创新不足，但仍是行业标杆](https://sspai.com/post/103454)
+**发布时间**: 2025-11-11 11:32
+
+#### [派早报：vivo 发布 Y500 Pro 手机等](https://sspai.com/post/103729)
+**发布时间**: 2025-11-11 08:27
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [美国的AI联盟，到底是革命还是泡沫骗局？](http://www.huxiu.com/article/4803304.html?f=wangzhan)
+**发布时间**: 2025-11-11 10:45
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [小米汽车 10 月销量近 5 万，YU7 超 Model Y；美团 AI 编程工具开启公测；马化腾王传福成智元机器人受益股东](http://www.geekpark.net/news/356231)
+**发布时间**: 2025-11-11 08:49
 
 ---
 
