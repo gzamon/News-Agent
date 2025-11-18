@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "a7df38924636347bd3a388fc5344d90a3e219346f335ba164c27e148d14f94b0": {
-        "title": "多模态大模型学会反思和复盘，上交&上海AI Lab破解多模态复杂推理",
-        "link": "https://www.qbitai.com/2025/10/343421.html",
-        "published_date": "Sun, 19 Oct 2025 07:08:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.885038"
-      },
-      "1261bb9ebdc8936a51a9b267bfc2328ac07abbf87a3a0a141f0d732ec026a58c": {
-        "title": "模型“看视频写网页”，GPT-5仅36.35分！首个video2code基准发布",
-        "link": "https://www.qbitai.com/2025/10/343400.html",
-        "published_date": "Sun, 19 Oct 2025 07:06:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.885246"
-      },
-      "e72f5b9504b282b1b8d91de5b1241308c4074351a4afe6741c161786e1dded91": {
-        "title": "中国最新Agent产品趋势：多体协同，垂直赛道，行业核心业务",
-        "link": "https://www.qbitai.com/2025/10/343370.html",
-        "published_date": "Sun, 19 Oct 2025 07:04:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.885439"
-      },
       "b52410ac55b7de1b513ee15c030cda6c81a3f468e4dff3c4f1dcc1b32ba13a2f": {
         "title": "经济学诺奖得主的富二代人生：香奈儿老佛爷帮他写作业，AI时代反对向机器人征税",
         "link": "https://www.qbitai.com/2025/10/343454.html",
@@ -1236,21 +1218,27 @@
         "link": "https://www.qbitai.com/2025/11/353734.html",
         "published_date": "Tue, 18 Nov 2025 05:39:00 GMT",
         "first_seen": "2025-11-18T08:23:21.056438"
+      },
+      "3aa9d9b569da9c674d43aecc4c4f5eebc506281e310056e1fb7b5a6c8e35eda8": {
+        "title": "Generative UI: A rich, custom, visual interactive user experience for any prompt",
+        "link": "https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt/",
+        "published_date": "Tue, 18 Nov 2025 16:00:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.743247"
+      },
+      "7b0d4862c7e7617f1cce37e832efb5090e9ebff5a90ba5256ff4507e517ade80": {
+        "title": "2025-2026赛季VEX机器人亚洲公开赛国际签名赛新闻发布会在京召开",
+        "link": "https://www.qbitai.com/2025/11/354050.html",
+        "published_date": "Tue, 18 Nov 2025 11:18:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.743432"
+      },
+      "93fc38db490edbeac9edfb3bf6fed3ba805df48cb59f9ff3c4b7945cddd0d4bf": {
+        "title": "NuwaAI V1.0发布！一句话生成数字人，全面升级数字生产力",
+        "link": "https://www.qbitai.com/2025/11/354039.html",
+        "published_date": "Tue, 18 Nov 2025 11:12:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.743677"
       }
     },
     "Technology": {
-      "ea06abbfb1eb1bb596975df2f03a52a077d8aa7405810d4f81c563177cc60417": {
-        "title": "项目看板 3.0：在 Obsidian 中平衡专注与多元",
-        "link": "https://sspai.com/post/102887",
-        "published_date": "Sun, 19 Oct 2025 14:59:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.939541"
-      },
-      "b2edac1cd2c9bff912df848669465eb95eb9fdaffe401d4dcaa50cb6fe1333fb": {
-        "title": "中国AIGC用户破5亿，增长1倍；今年超7成外卖低于15元；新能源事故，「破窗锤」被网友买爆｜极客早知道",
-        "link": "http://www.geekpark.net/news/355132",
-        "published_date": "Sun, 19 Oct 2025 08:28:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.939705"
-      },
       "812adefef67508015be0cdffbc72b55fa109de5e846ee0a9113f35efb90ec13c": {
         "title": "经纬辉开“大手笔”收购中兴系统；威高血净上市5个月火速整合“威高系”资产【并购一线】",
         "link": "https://www.tmtpost.com/7731354.html",
@@ -11912,13 +11900,145 @@
         "link": "http://www.huxiu.com/article/4806247.html?f=wangzhan",
         "published_date": "Tue, 18 Nov 2025 13:00:00 GMT",
         "first_seen": "2025-11-18T08:23:21.127876"
+      },
+      "7e76fb54eb506cdb23230f4529c2e721c4bb85516b729fa198bbd05b1d020f8b": {
+        "title": "OceanBase 开源首款AI数据库SeekDB ：遵循 Apache 2.0 协议，三行代码构建一款AI应用",
+        "link": "https://www.infoq.cn/article/vrObFV2D0gu8c7E180RN?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 19 Nov 2025 07:00:00 GMT",
+        "first_seen": "2025-11-18T23:16:50.140169"
+      },
+      "cf77779ac5c6f4a6ddaa887da6d21e55fcbe7bffd5425899323c095b8ee36b51": {
+        "title": "模力工场 020 周 AI 应用榜：灵臂 Lybic 登顶榜首，榜单聚光“Agent 原生工作基建”！",
+        "link": "https://www.infoq.cn/article/Xp87YYxt7m5ksRWw8S0D?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Nov 2025 20:00:00 GMT",
+        "first_seen": "2025-11-18T23:16:50.140230"
+      },
+      "862dff39542890dfb0da1c93effa7c9cd737de738a3384089d9908c9f090f633": {
+        "title": "Windows 要变成“Agent OS”？微软遭开发者强烈反对，印度裔掌舵人被骂到关回复",
+        "link": "https://www.infoq.cn/article/wsFfeBxtMrlJdYouTX4a?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Nov 2025 18:51:00 GMT",
+        "first_seen": "2025-11-18T23:16:50.140245"
+      },
+      "3d5370958dd59fcbb8eb295b5ccfbf67a17fb4c25d7fb5bc46849a5ec258c5d6": {
+        "title": "马斯克先于谷歌放大招，Grok 4.1登顶AI权威榜单，我们也动手测了一波",
+        "link": "https://www.infoq.cn/article/HYWdG6vp0pWMIRrJQQAe?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Nov 2025 14:13:00 GMT",
+        "first_seen": "2025-11-18T23:16:50.140258"
+      },
+      "130533901ee0aba5d45381e424851520f3c88f7c85a0a7124e15f937631af756": {
+        "title": "谷歌 Gemini 3.0 深夜炸场：没有悬念的最强 AI",
+        "link": "http://www.geekpark.net/news/356579",
+        "published_date": "Wed, 19 Nov 2025 03:17:00 GMT",
+        "first_seen": "2025-11-18T23:16:50.140271"
+      },
+      "50c8c8cd02c1c56b67023d664c454ddb28a388b074c99f444307f31563750d47": {
+        "title": "17.9亿！欧菲微电子控制权被收购；LED照企筹划购买东莞硅翔控股权；【并购一线】",
+        "link": "https://www.tmtpost.com/7770943.html",
+        "published_date": "Tue, 18 Nov 2025 23:44:00 GMT",
+        "first_seen": "2025-11-18T23:16:50.140286"
+      },
+      "e563c74525a218d36737ad39b963e3e35399fe97016e1db8c8b6f70c60eb0eb1": {
+        "title": "被大疆“偷家”，影石还能守住护城河吗？",
+        "link": "https://www.tmtpost.com/7770229.html",
+        "published_date": "Tue, 18 Nov 2025 19:36:00 GMT",
+        "first_seen": "2025-11-18T23:16:50.140298"
+      },
+      "4419a5890d708c699020c9de484104c456012a5d1fdfdcb3f7464842827e90df": {
+        "title": "直营大退潮，腾势、鸿蒙智行、极氪等品牌三四线门店转为加盟",
+        "link": "https://www.tmtpost.com/7770484.html",
+        "published_date": "Tue, 18 Nov 2025 19:35:00 GMT",
+        "first_seen": "2025-11-18T23:16:50.140309"
+      },
+      "458a663d991350f90928bc15649cb3ba58207b619693b60a77a75f09823ce1ac": {
+        "title": "思创医惠或结束六年“无主”状态，业绩翻转仍存多重挑战",
+        "link": "https://www.tmtpost.com/7770531.html",
+        "published_date": "Tue, 18 Nov 2025 19:34:00 GMT",
+        "first_seen": "2025-11-18T23:16:50.140319"
+      },
+      "d5c77cf8d9fe2ae271c6eb9f3d6ee8efeefa5875d10951300ba69ec4b112f998": {
+        "title": "国产芯片设计公司，谁是最大赢家？",
+        "link": "https://www.tmtpost.com/7770465.html",
+        "published_date": "Tue, 18 Nov 2025 19:33:00 GMT",
+        "first_seen": "2025-11-18T23:16:50.140133"
+      },
+      "c6b5a750961fc3c25f95085034b06b30386beb814ae159b5fb3b9c0554c5dcfd": {
+        "title": "决裂、败诉与回归：NewJeans风暴348天",
+        "link": "https://www.tmtpost.com/7770473.html",
+        "published_date": "Tue, 18 Nov 2025 19:31:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.830188"
+      },
+      "d8474265b1e2abfbfe76dfffdd14d8f59189ca9c6e1f5cd055ac4de9d8a273fb": {
+        "title": "贝壳彭永东的“存在主义”：祛魅左晖，附灵AI",
+        "link": "https://www.tmtpost.com/7770491.html",
+        "published_date": "Tue, 18 Nov 2025 19:27:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.830771"
+      },
+      "74be1227c4d540f166f7069c115256f8815b7d4f92c5d09879b7a92dffc6203e": {
+        "title": "利润暴增233%，不是B站Q3最大的好消息",
+        "link": "https://www.tmtpost.com/7770502.html",
+        "published_date": "Tue, 18 Nov 2025 19:26:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.831291"
+      },
+      "686eb62a29bd76e7a86997b2338c60cd6600a0262f632b18c06aa10ba78155c5": {
+        "title": "新东方俞敏洪南极信风波：PR与HR如何共筑雇主品牌",
+        "link": "https://www.tmtpost.com/7770507.html",
+        "published_date": "Tue, 18 Nov 2025 19:25:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.831855"
+      },
+      "7f86fd189cda35169f4f3e8dfca8de899fb128447a5b401a1ddee17bfd49063e": {
+        "title": "生益电子26亿再押高端产能，全球AI算力投资催生PCB行业“扩产潮”",
+        "link": "https://www.tmtpost.com/7770482.html",
+        "published_date": "Tue, 18 Nov 2025 19:07:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.832665"
+      },
+      "f8e60508d4b737e02baf1f5e85e663a79af74472e0a62c5d3ad3d1de581c5195": {
+        "title": "Netflix下一个广告大考是道数学题",
+        "link": "https://www.tmtpost.com/7770444.html",
+        "published_date": "Tue, 18 Nov 2025 18:18:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.833235"
+      },
+      "563b3dc2382c2435acdfcd4043f4401520a354b842cbced9c8dadc5d53f01e95": {
+        "title": "“剿匪”拓竹，大疆何故？",
+        "link": "https://www.tmtpost.com/7770170.html",
+        "published_date": "Tue, 18 Nov 2025 18:17:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.833834"
+      },
+      "4533e643f6df290057808baf5d56b2e07ce0105923d2f29e695a66b10ba8b4a5": {
+        "title": "他们在无锡造火箭",
+        "link": "https://www.tmtpost.com/7770278.html",
+        "published_date": "Tue, 18 Nov 2025 18:17:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.834234"
+      },
+      "fcd900b697b9f6f2e382c75bfc18f5840cf00761622d97ba0a622e55462de522": {
+        "title": "AI吃播开始和真人吃播抢“饭碗”",
+        "link": "https://www.tmtpost.com/7770320.html",
+        "published_date": "Tue, 18 Nov 2025 18:15:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.834834"
+      },
+      "250d80dfbd98b9f67b56808717f6cec170bc40d5c9be72eef99fa2198fe95410": {
+        "title": "疯狂的《疯狂动物城2》",
+        "link": "https://www.tmtpost.com/7769772.html",
+        "published_date": "Tue, 18 Nov 2025 18:04:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.835419"
+      },
+      "779c6f60099e9f53784e49dcc11848a7a3694972154bffe6d5f93fc177902093": {
+        "title": "非车险迎“终局之战”：人保、太保、平安群雄逐鹿，中小险企路在何方？",
+        "link": "https://www.tmtpost.com/7770313.html",
+        "published_date": "Tue, 18 Nov 2025 18:03:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.836586"
+      },
+      "230aeb229fbff138b558654d75429e37e83ab936c57fccd8a3b8a9af66c0cb92": {
+        "title": "社区速递 118 | 派友千奇百怪的健身起点、一周热评以及新玩意",
+        "link": "https://sspai.com/post/103908",
+        "published_date": "Tue, 18 Nov 2025 17:20:00 GMT",
+        "first_seen": "2025-11-18T23:16:01.837708"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-18T08:23:21.080134",
-    "Technology": "2025-11-18T08:24:09.453325",
-    "Finance": "2025-11-18T08:23:20.948826"
+    "AI": "2025-11-18T23:16:01.793719",
+    "Technology": "2025-11-18T23:16:50.141873",
+    "Finance": "2025-11-18T23:16:01.638674"
   }
 }
