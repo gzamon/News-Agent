@@ -13202,13 +13202,55 @@
         "link": "https://www.tmtpost.com/7798987.html",
         "published_date": "Sat, 06 Dec 2025 17:29:00 GMT",
         "first_seen": "2025-12-06T23:20:37.640182"
+      },
+      "c7105742ddccb16e227daa75726c59216dae09c999cc561758c30e353744904a": {
+        "title": "re:Invent 2025 特别企划之“五天五问”Day4 视野的合流——预告片",
+        "link": "https://www.infoq.cn/video/1YWiveG6iCxAB60ZD4dS?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 07 Dec 2025 11:38:00 GMT",
+        "first_seen": "2025-12-07T05:16:18.426699"
+      },
+      "e466054d233236d4e60aef4258777c09ae5c14d373e4b4a38eb78b0e9312aa06": {
+        "title": "百度资深架构师颜志杰确认出席AICon北京站，分享Coding Agent在企业大规模落地的实践与挑战",
+        "link": "https://www.infoq.cn/article/6fAS6mvUzprAVav2Gvve?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 07 Dec 2025 08:00:00 GMT",
+        "first_seen": "2025-12-07T05:16:18.426922"
+      },
+      "62fd2fef00d8a4d55146bac2021bbd2043428afb551bbbee4735ba492bcf72c9": {
+        "title": "System Initiative公布了实时多云发现和自动化的扩展",
+        "link": "https://www.infoq.cn/article/ePAoHPYtJB876Gf274SE?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 07 Dec 2025 08:00:00 GMT",
+        "first_seen": "2025-12-07T05:16:18.427141"
+      },
+      "2f29302a53af645b4768656edd77186b2894748b663cab63936fc4e375f3d65a": {
+        "title": "【数智周报】华为任正非：大量建设大模型是正确的探索，未来算力一定过剩；豆包手机助手触发微信账号强制下线？豆包、微信双方回应；亚马逊推出定制AI芯片Trainium3",
+        "link": "https://www.tmtpost.com/7799625.html",
+        "published_date": "Sun, 07 Dec 2025 11:05:00 GMT",
+        "first_seen": "2025-12-07T05:16:18.427515"
+      },
+      "a182247f2a5ed4f2da6d266e8f148867085a3c5a94d65d1b9c92fd9d3fd3a51b": {
+        "title": "当代年轻人的“发疯”大赛，正在被包装成“消费游戏”",
+        "link": "https://www.tmtpost.com/7799195.html",
+        "published_date": "Sun, 07 Dec 2025 10:39:00 GMT",
+        "first_seen": "2025-12-07T05:16:18.427803"
+      },
+      "411d8b7d7aaa1e7c6c5534f8fead4d53efd05191cbd34ae64df2311444512dbb": {
+        "title": "关店数量陷争议，塔斯汀重拾“平价披萨”求增长",
+        "link": "https://www.tmtpost.com/7799599.html",
+        "published_date": "Sun, 07 Dec 2025 09:20:00 GMT",
+        "first_seen": "2025-12-07T05:16:18.428137"
+      },
+      "8fbd6e7fd4cafbbaa37ff8bce5d914482188df355590665480fd09426d8a1c2e": {
+        "title": "马斯克：SpaceX估值8000亿美元不准确；传阿里系App禁豆包手机登录；140 万，领克 03+ TCR开售秒光",
+        "link": "http://www.geekpark.net/news/357693",
+        "published_date": "Sun, 07 Dec 2025 08:06:00 GMT",
+        "first_seen": "2025-12-07T05:16:18.428892"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-06T23:20:37.601494",
-    "Technology": "2025-12-06T23:20:37.647720",
-    "Finance": "2025-12-06T23:20:37.455197"
+    "AI": "2025-12-07T05:16:18.388390",
+    "Technology": "2025-12-07T05:16:18.483422",
+    "Finance": "2025-12-07T05:16:18.271051"
   }
 }
