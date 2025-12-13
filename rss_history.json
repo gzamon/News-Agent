@@ -2688,6 +2688,66 @@
         "link": "https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/",
         "published_date": "Fri, 12 Dec 2025 10:42:00 GMT",
         "first_seen": "2025-12-12T23:17:30.080357"
+      },
+      "9e92462e6738212695c8d36750bd04d83682ffa6eac9039b8dc474026f8d581d": {
+        "title": "ACL Fellows 2025名单公布：西湖大学张岳与UIUC季姮入选",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14-7",
+        "published_date": "Sun, 14 Dec 2025 00:32:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.306682"
+      },
+      "c273e87b2cac8599bd0f145d772df316104377dc52d70c41d6aaee351ac21700": {
+        "title": "NeurIPS 2025 | 告别全量扫描！浙大提出COIDO：破解多模态数据选择「高耗」难题",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14-6",
+        "published_date": "Sun, 14 Dec 2025 00:28:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.306915"
+      },
+      "837f72dc62be29a0ce0c5868f828b24d77f210725364898ed6d6484137609bc9": {
+        "title": "GPT-5.2已上线24小时：差评如潮！",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14-5",
+        "published_date": "Sun, 14 Dec 2025 00:23:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.307109"
+      },
+      "c280eb28b149f7e234777a61e3b00497babcf9988374c63d520bdeba04f0131a": {
+        "title": "谢赛宁REPA得到大幅改进，只需不到4行代码",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14-4",
+        "published_date": "Sun, 14 Dec 2025 00:16:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.307331"
+      },
+      "989103dd3762c9766afa97e4f4965fec79ccbef2799ef23e1aac79bbd612e97c": {
+        "title": "AAAI 2026 Oral | 拒绝「一刀切」！AdaMCoT：让大模型学会「看题下菜碟」，动态选择最佳思考语言",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14-3",
+        "published_date": "Sun, 14 Dec 2025 00:11:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.307815"
+      },
+      "860177d321df8c979668e764d01bfba969bd733b6bfba27e8a576fe7318324c1": {
+        "title": "苹果光速撤回RLAX论文：用了谷歌TPU和阿里Qwen，作者中还有庞若鸣",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14-2",
+        "published_date": "Sun, 14 Dec 2025 00:07:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.308213"
+      },
+      "fed7cd5fdbd304d82f7ba04d745a76c6605bea27427bec83d80059ae002d914c": {
+        "title": "告别「盲目自信」，CCD：扩散语言模型推理新SOTA",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-14",
+        "published_date": "Sun, 14 Dec 2025 00:03:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.308635"
+      },
+      "a19662e9e2b0529669703f79f3b3f64e966c2c053a10a76fa80e09d5991cc738": {
+        "title": "半世纪难题48小时破解！陶哲轩组队把AI数学玩成打怪游戏了",
+        "link": "https://www.qbitai.com/2025/12/360669.html",
+        "published_date": "Sat, 13 Dec 2025 14:43:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.308994"
+      },
+      "5abc301779a849539865376e7c55777dfeec87cafe455bf61ed5f489bc706a07": {
+        "title": "美国视频生成老炮儿，入局世界模型",
+        "link": "https://www.qbitai.com/2025/12/360627.html",
+        "published_date": "Sat, 13 Dec 2025 14:41:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.309317"
+      },
+      "f6c5e04c733e4e731be728460e39d209a1a19bcaf8b69698735002aad4d80d77": {
+        "title": "面向「空天具身智能」，北航团队提出星座规划新基准丨NeurIPS’25",
+        "link": "https://www.qbitai.com/2025/12/360604.html",
+        "published_date": "Sat, 13 Dec 2025 14:37:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.309854"
       }
     },
     "Technology": {
@@ -13748,13 +13808,61 @@
         "link": "https://www.infoq.cn/article/84yOUazuZVZydfEZa1Nh?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 13 Dec 2025 14:38:00 GMT",
         "first_seen": "2025-12-13T08:26:11.349397"
+      },
+      "7134d7c9cf97d93f05cdb99dd76f637e0b0f2810f989e6db98996cf3aa59254b": {
+        "title": "天桥脑科学研究院成立尖峰智能实验室，推动类脑大模型发展",
+        "link": "https://www.tmtpost.com/7808249.html",
+        "published_date": "Sat, 13 Dec 2025 21:31:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.429463"
+      },
+      "037a521f2bfe502911c025faf7d066eec7d1f68bfef1ac789c6069b71fb8f92f": {
+        "title": "90后美女主持人接任150万年薪董秘：睿智医药选对人了？",
+        "link": "https://www.tmtpost.com/7807758.html",
+        "published_date": "Sat, 13 Dec 2025 19:01:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.429590"
+      },
+      "972a38c51b57fe8625aa0404935d18338835673c133ce44216870d96aace9b80": {
+        "title": "企业AI战略规划方法论与工作清单",
+        "link": "https://www.tmtpost.com/7807959.html",
+        "published_date": "Sat, 13 Dec 2025 19:01:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.429699"
+      },
+      "b38d6200914c427a38e803de1b37d89d87ed6d60eaa6277e9a3a473e3c2b19b2": {
+        "title": "赢时胜实控人唐球套现过亿，不久前因信披问题被监管",
+        "link": "https://www.tmtpost.com/7808003.html",
+        "published_date": "Sat, 13 Dec 2025 19:01:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.429869"
+      },
+      "b6c0bfc6becebc030101a0e0a86ff7d1ee8c8277169d39c323a8e8170d7f40ee": {
+        "title": "李飞飞深度解读：为什么空间智能是通往AGI的关键技术？",
+        "link": "https://www.tmtpost.com/7808166.html",
+        "published_date": "Sat, 13 Dec 2025 19:00:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.430074"
+      },
+      "bbd1aa3c32ecc5a19811803297ed51aed8bbc484a7fab3386da86965ca3d791f": {
+        "title": "LV高管加入泡泡玛特董事会；lululemonQ3中国大陆净营收同比增46%；红杉中国拟收购Golden Goose｜消研所周报",
+        "link": "https://www.tmtpost.com/7807635.html",
+        "published_date": "Sat, 13 Dec 2025 16:55:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.430402"
+      },
+      "69700d18a97a36070a61616b5907e07fafd71f58dde62651db22fa3b8b5dbb3a": {
+        "title": "re:Invent特别企划之五天五问④《视野的合流》正片上线！",
+        "link": "https://www.infoq.cn/video/COuRzVEjIi0DS5oDeH2x?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 13 Dec 2025 16:35:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.430743"
+      },
+      "1006e858cd0c8204b792b002c6a91dda7edab1faf0c6a94ed8ae1c9d57c7a1aa": {
+        "title": "为了年销100万辆，为了对冲“含华量”稀释，余承东跟“五界”抱作一团",
+        "link": "http://www.huxiu.com/article/4816965.html?f=wangzhan",
+        "published_date": "Sat, 13 Dec 2025 11:52:00 GMT",
+        "first_seen": "2025-12-13T23:15:53.431187"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-13T08:26:11.281431",
-    "Technology": "2025-12-13T08:26:11.371398",
-    "Finance": "2025-12-13T08:26:11.167285"
+    "AI": "2025-12-13T23:15:53.360965",
+    "Technology": "2025-12-13T23:15:53.438909",
+    "Finance": "2025-12-13T23:15:53.201478"
   }
 }
