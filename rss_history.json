@@ -2742,6 +2742,12 @@
         "link": "https://www.qbitai.com/2025/12/360603.html",
         "published_date": "Sun, 14 Dec 2025 03:39:00 GMT",
         "first_seen": "2025-12-14T05:17:51.986658"
+      },
+      "c8139b6d908a85f35cbbd5cf6cf3e646b458bb2d7674ffb842a307d29d6a972c": {
+        "title": "OpenAI突然开源新模型！99.9%的权重是0，新稀疏性方法代替MoE",
+        "link": "https://www.qbitai.com/2025/12/360864.html",
+        "published_date": "Sun, 14 Dec 2025 06:27:00 GMT",
+        "first_seen": "2025-12-14T08:21:53.055959"
       }
     },
     "Technology": {
@@ -13621,8 +13627,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-14T05:17:52.026422",
-    "Technology": "2025-12-14T05:17:52.101085",
-    "Finance": "2025-12-14T05:17:51.880540"
+    "AI": "2025-12-14T08:21:53.076517",
+    "Technology": "2025-12-14T08:21:53.154560",
+    "Finance": "2025-12-14T08:21:52.946446"
   }
 }
