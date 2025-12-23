@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Dec 2025 08:30:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Dec 2025 08:30:17 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2025 23:16:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2025 23:17:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>亚马逊云科技推出“DevOps Agent”，以实现事件响应自动化并提高系统可靠性</title>
-      <link>https://www.infoq.cn/article/GJED7TYiFFUYb87re523?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技推出“DevOps Agent”，以实现事件响应自动化并提高系统可靠性]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 14:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GJED7TYiFFUYb87re523?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI耳机需要独立OS吗？声智科技以“离散交互”给出否定答案</title>
+      <link>https://www.infoq.cn/article/cE4J3fK3tDwctUA39Cjl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI耳机需要独立OS吗？声智科技以“离散交互”给出否定答案]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 18:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/cE4J3fK3tDwctUA39Cjl?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>第一批大模型公司要上市了，问题是如何给智谱、Minimax们估值？</title>
-      <link>https://www.tmtpost.com/7818114.html</link>
-      <description>&lt;![CDATA[第一批大模型公司要上市了，问题是如何给智谱、Minimax们估值？]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 16:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7818114.html</guid>
+      <title>“创二代”接棒后石药抛4.5亿押注降糖减重赛道，新诺威赴港募资冲刺创新药转型</title>
+      <link>https://www.tmtpost.com/7818885.html</link>
+      <description>&lt;![CDATA[“创二代”接棒后石药抛4.5亿押注降糖减重赛道，新诺威赴港募资冲刺创新药转型]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 23:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7818885.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>「深度实践」如何用7年做出一家ToB上市公司｜2025 T-EDGE全球对话</title>
-      <link>https://www.tmtpost.com/7815078.html</link>
-      <description>&lt;![CDATA[「深度实践」如何用7年做出一家ToB上市公司｜2025 T-EDGE全球对话]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 16:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7815078.html</guid>
+      <title>NAS市场爆发，国产芯片有机会吗？</title>
+      <link>https://www.tmtpost.com/7818647.html</link>
+      <description>&lt;![CDATA[NAS市场爆发，国产芯片有机会吗？]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 19:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7818647.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话机械革命创始人潘春节：创业十年，永远为用户体验“走深一公里”</title>
-      <link>https://www.tmtpost.com/7818050.html</link>
-      <description>&lt;![CDATA[对话机械革命创始人潘春节：创业十年，永远为用户体验“走深一公里”]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 15:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7818050.html</guid>
+      <title>“我们要彻底告别C++”！微软启动代码史上最大“拆迁”：Windows、Azure将用Rust重写</title>
+      <link>https://www.infoq.cn/article/eB7ycjTNNMh7B3ZSd7Rz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“我们要彻底告别C++”！微软启动代码史上最大“拆迁”：Windows、Azure将用Rust重写]]&gt;</description>
+      <pubDate>Wed, 24 Dec 2025 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/eB7ycjTNNMh7B3ZSd7Rz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一张“戏票”闯港股，印象大红袍1300万“拼命”上市</title>
-      <link>https://www.tmtpost.com/7817801.html</link>
-      <description>&lt;![CDATA[一张“戏票”闯港股，印象大红袍1300万“拼命”上市]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 15:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7817801.html</guid>
+      <title>模力工场 025 周 AI 应用榜：传统 SEO 黄昏？蓝莺 GrowAI 说让品牌出现在 AI 答案里！</title>
+      <link>https://www.infoq.cn/article/Xs499NxyphCpU7VPkoAd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[模力工场 025 周 AI 应用榜：传统 SEO 黄昏？蓝莺 GrowAI 说让品牌出现在 AI 答案里！]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Xs499NxyphCpU7VPkoAd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>涅槃归来！金刚光伏重整完成，“光伏+算力”启新篇</title>
-      <link>https://www.tmtpost.com/7818329.html</link>
-      <description>&lt;![CDATA[涅槃归来！金刚光伏重整完成，“光伏+算力”启新篇]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 15:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7818329.html</guid>
+      <title>不用遥控自己跑！Vbot维他动力首款 “自主跟屁虫” 机器狗开售，12988 元抢疯了，明年 3 月批量供货</title>
+      <link>https://www.infoq.cn/article/IShjqjuRI3pYmDsgHdzN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[不用遥控自己跑！Vbot维他动力首款 “自主跟屁虫” 机器狗开售，12988 元抢疯了，明年 3 月批量供货]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IShjqjuRI3pYmDsgHdzN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>给AI接上专有知识库：RAG的工程化实现</title>
-      <link>https://www.tmtpost.com/7817906.html</link>
-      <description>&lt;![CDATA[给AI接上专有知识库：RAG的工程化实现]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 15:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7817906.html</guid>
+      <title>你的24小时“贴身医生”已上线</title>
+      <link>https://www.infoq.cn/article/mNINtEIw6kv6N0LWLDaF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[你的24小时“贴身医生”已上线]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 16:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mNINtEIw6kv6N0LWLDaF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>小象超市北京开店，美团与阿里形成「生鲜1V1」态势</title>
-      <link>https://www.tmtpost.com/7817621.html</link>
-      <description>&lt;![CDATA[小象超市北京开店，美团与阿里形成「生鲜1V1」态势]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7817621.html</guid>
+      <title>Pinterest工程通过运行时感知分片将Android CI构建时间缩短了36%</title>
+      <link>https://www.infoq.cn/article/2hfyYr7NW6puMYkZJelN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Pinterest工程通过运行时感知分片将Android CI构建时间缩短了36%]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 16:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2hfyYr7NW6puMYkZJelN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>流感季爆火的居家快检，真的有那么灵？</title>
-      <link>https://www.tmtpost.com/7818018.html</link>
-      <description>&lt;![CDATA[流感季爆火的居家快检，真的有那么灵？]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 13:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7818018.html</guid>
+      <title>China's Innovative Drugs Go Global: From Riding Leased Ships to Building Their Own Fleet</title>
+      <link>https://www.tmtpost.com/7818802.html</link>
+      <description>&lt;![CDATA[China's Innovative Drugs Go Global: From Riding Leased Ships to Building Their Own Fleet]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 21:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7818802.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“大模型第一股”打响上市前哨战！智谱刷新开源编程SOTA，在修复代码、终端操作表现超Claude 4.5</title>
-      <link>https://www.infoq.cn/article/wTgh5tfft66Zf8AWQutD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“大模型第一股”打响上市前哨战！智谱刷新开源编程SOTA，在修复代码、终端操作表现超Claude 4.5]]&gt;</description>
-      <pubDate>Tue, 23 Dec 2025 16:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wTgh5tfft66Zf8AWQutD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>罗兰贝格：2030年中国车企海外份额将占15%—20%</title>
+      <link>https://www.tmtpost.com/7818327.html</link>
+      <description>&lt;![CDATA[罗兰贝格：2030年中国车企海外份额将占15%—20%]]&gt;</description>
+      <pubDate>Tue, 23 Dec 2025 19:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7818327.html</guid>
       <category>Technology</category>
     </item>
   </channel>
