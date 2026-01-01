@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-31 23:17
+**最后更新时间**: 2026-01-01 05:24
+
+---
+
+## 🆕 最新更新 (2026-01-01 05:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [争议中登顶，《燕云十六声》周年庆的冰与火](https://www.tmtpost.com/7828618.html)
+**发布时间**: 2026-01-01 12:02
+
+#### [罗永浩“老矣”，“科技春晚”会成为绝唱吗？](https://www.tmtpost.com/7828583.html)
+**发布时间**: 2026-01-01 10:31
+
+#### [AI创业公司的2025：一半是海水，一半是火焰](https://www.tmtpost.com/7828472.html)
+**发布时间**: 2026-01-01 10:00
+
+#### [赵何娟：2026，增长变得更难，我们怎么办？｜钛媒体新年献词](https://www.tmtpost.com/7828591.html)
+**发布时间**: 2026-01-01 09:49
+
+#### [长视频与短视频的2025](https://www.tmtpost.com/7828453.html)
+**发布时间**: 2026-01-01 09:31
+
+#### [90后AI创业者，拿到Meta数十亿美元“聘礼”](https://www.tmtpost.com/7828576.html)
+**发布时间**: 2026-01-01 09:00
+
+#### [车圈2025：价格战没赢家，但淘汰赛已有出局者](https://www.tmtpost.com/7828479.html)
+**发布时间**: 2026-01-01 08:31
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [MinIO GitHub存储库的维护模式：开源对象存储的下一步是什么？](https://www.infoq.cn/article/qLhD8ri5LGP3myGbz8dW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-01 10:00
+
+#### [CNCF 推出 Kubernetes AI 一致性认证计划，旨在标准化工作负载](https://www.infoq.cn/article/DH2lkgylfWlybKZ7RUD5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-01 10:00
 
 ---
 
