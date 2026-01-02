@@ -2658,69 +2658,63 @@
         "link": "https://www.qbitai.com/2026/01/366444.html",
         "published_date": "Fri, 02 Jan 2026 06:07:00 GMT",
         "first_seen": "2026-01-02T08:25:09.159147"
+      },
+      "3fd76b88d0c185eec6e17c0df197c7048fbd5f730a12d3b32b8970542e2018c4": {
+        "title": "Sebastian Raschka万字年终复盘：2025，属于「推理模型」的一年",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-03-9",
+        "published_date": "Sat, 03 Jan 2026 00:58:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.750518"
+      },
+      "0df987c1a392067803e98d2b1c0c4570e2a2bbed5da6defe4a33e48b7804ab6c": {
+        "title": "KAN作者刘子鸣：AI还没等到它的「牛顿」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-03-8",
+        "published_date": "Sat, 03 Jan 2026 00:45:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.750704"
+      },
+      "c4301043f12c2a20e116f74b98bc902c79251b956d62659ec15c76bfc0a695b4": {
+        "title": "自回归也能做强视觉模型？NEPA开启「下一嵌入预测」时代，谢赛宁参与",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-03-7",
+        "published_date": "Sat, 03 Jan 2026 00:41:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.750904"
+      },
+      "61cd1705599220ec290a72fda723d186b380dab9e74fd549f079d76d5f4f6a20": {
+        "title": "「辍学创业」的风再次席卷硅谷，但真正的变量从来不是学位",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-03-6",
+        "published_date": "Sat, 03 Jan 2026 00:37:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.751111"
+      },
+      "f8841fee28a456def9eeab112e7f6c326debf7056ab11584cd1c2afbd9a66adb": {
+        "title": "让模型自己找关键帧、视觉线索，小红书Video-Thinker破解视频推理困局",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-03-5",
+        "published_date": "Sat, 03 Jan 2026 00:33:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.751444"
+      },
+      "0b3e2f2a3d35df714f8e49eda8f7d7e8a4da8f678be4368fb058796e0dccf628": {
+        "title": "Meta重磅：让智能体摆脱人类知识的瓶颈，通往自主AI的SSR级研究",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-03-4",
+        "published_date": "Sat, 03 Jan 2026 00:26:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.751869"
+      },
+      "9f2ea66337310bde4cef7565c8bed67c8c25e0acd1c29fa59a137a6dc5cbb37e": {
+        "title": "告别KV Cache枷锁，将长上下文压入权重，持续学习大模型有希望了？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-03-3",
+        "published_date": "Sat, 03 Jan 2026 00:19:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.752323"
+      },
+      "476ea54e94af644e405d10ea44f4ab9400d6cca242231078f181695e24344b53": {
+        "title": "LSTM之父率队造出PoPE：终结RoPE泛化难题，实现Transformer的极坐标进化",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-03-2",
+        "published_date": "Sat, 03 Jan 2026 00:12:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.752836"
+      },
+      "934d39a74ed7ada20b041e56658b9d15dfc79cdbe8377453fa96d480e7993898": {
+        "title": "重新定义视频大模型时序定位！南大腾讯联合提出TimeLens，数据+算法全方位升级",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-03",
+        "published_date": "Sat, 03 Jan 2026 00:06:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.753363"
       }
     },
     "Technology": {
-      "a9c79673905f5743a3ff4dfeabe22aa4b8e77d6c62e7288c569719fe5eca6bce": {
-        "title": "独家 | 华为云新任CEO周跃峰首次亮相，兼任五大产品线负责人",
-        "link": "https://www.tmtpost.com/7794014.html",
-        "published_date": "Wed, 03 Dec 2025 16:18:00 GMT",
-        "first_seen": "2025-12-03T08:25:14.544912"
-      },
-      "e089b62273b2271cb8003279cfa1ae59ea17c144cdb3e93a20d7932fe0ed29f2": {
-        "title": "不筹量子完成数千万元天使轮融资，中科创星领投 | 融资速递",
-        "link": "https://www.tmtpost.com/7793947.html",
-        "published_date": "Wed, 03 Dec 2025 15:01:00 GMT",
-        "first_seen": "2025-12-03T08:25:14.544926"
-      },
-      "d6f5097efd4461944ab15110c26c4200c2d04390fe88831f8118d70393aa5be9": {
-        "title": "“云计算春晚”又来了！不止自研AI芯片和模型，亚马逊云科技回答了一个核心问题",
-        "link": "https://www.tmtpost.com/7793810.html",
-        "published_date": "Wed, 03 Dec 2025 14:43:00 GMT",
-        "first_seen": "2025-12-03T08:25:14.544883"
-      },
-      "e05f1e5ef89ea5cfe12ac8eec8f8e87c45c02e5ec8c5b6123af4f482b6ecb44f": {
-        "title": "影迷、影院、好莱坞都兴奋了！《疯狂动物城2》让行业“起死回生”？",
-        "link": "https://www.tmtpost.com/7793484.html",
-        "published_date": "Wed, 03 Dec 2025 14:18:00 GMT",
-        "first_seen": "2025-12-03T08:25:14.544940"
-      },
-      "99be73fe6255099ad6ebbdd12970f76af7cebe6860573fcc701031a0a28ca7fd": {
-        "title": "销量狂欢的B面：车企忙着发战报，经销商忙着去库存",
-        "link": "https://www.tmtpost.com/7793857.html",
-        "published_date": "Wed, 03 Dec 2025 14:18:00 GMT",
-        "first_seen": "2025-12-03T08:25:14.544951"
-      },
-      "08394bfb26acf139c01a13f757b4a349d36bbe89533ace12491f7d407f04a2c2": {
-        "title": "外卖大战收尾：烧光千亿，没有赢家",
-        "link": "https://www.tmtpost.com/7793168.html",
-        "published_date": "Wed, 03 Dec 2025 14:18:00 GMT",
-        "first_seen": "2025-12-03T08:25:14.544961"
-      },
-      "ef50fdb72990e308dbb6f6547cf07788c6624eb1e07ecf567e9524b1f088c791": {
-        "title": "迈威尔Marvell：收购补短板，英伟达“平替”路快成了？",
-        "link": "https://www.tmtpost.com/7793426.html",
-        "published_date": "Wed, 03 Dec 2025 14:18:00 GMT",
-        "first_seen": "2025-12-03T08:25:14.544972"
-      },
-      "112fb1308f2fcf134c9ffefc8ee4b728d6a9b4e86b1747e307b2d4075b0fbbe2": {
-        "title": "东北上市银行走下牌桌",
-        "link": "https://www.tmtpost.com/7793842.html",
-        "published_date": "Wed, 03 Dec 2025 14:08:00 GMT",
-        "first_seen": "2025-12-03T08:25:14.544981"
-      },
-      "7c4e46772c31208f8ae2746794f0959ee9aef3fafab0831f30b59a5b8eef182d": {
-        "title": "《疯狂动物城》IP十年热度不减，AI仍在动画业“墙外”",
-        "link": "https://www.tmtpost.com/7792865.html",
-        "published_date": "Wed, 03 Dec 2025 13:47:00 GMT",
-        "first_seen": "2025-12-03T08:25:14.544991"
-      },
-      "e06269e27acaa9be98d5095ed90de21c55ed5221b42754dfb3382fc8d482b4b6": {
-        "title": "re:Invent 特别企划之“五天五问”Day 1 异见与共识",
-        "link": "https://www.infoq.cn/video/fQ7NHcSBQTfEXwdIlq64?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Dec 2025 14:15:00 GMT",
-        "first_seen": "2025-12-03T08:25:14.545004"
-      },
       "9284a5b9f7c6f6cb2e3896e0ea8ca63ebde86ed909f89a459801cc4722efeab7": {
         "title": "Li Auto Forays into Wearable-AI with Smart Glasses Livis Starting $283",
         "link": "https://www.tmtpost.com/7794926.html",
@@ -12926,13 +12920,43 @@
         "link": "https://www.tmtpost.com/7829070.html",
         "published_date": "Fri, 02 Jan 2026 09:22:00 GMT",
         "first_seen": "2026-01-02T08:25:09.247279"
+      },
+      "4322dfa8d00ed522e5a654799457c2b4ffcf53e7d3dee77e677c99a50770994f": {
+        "title": "融资与规模“双失速”，白犀牛何以冲刺“第一股”？",
+        "link": "https://www.tmtpost.com/7829236.html",
+        "published_date": "Fri, 02 Jan 2026 19:24:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.849436"
+      },
+      "23b3fdb602f9edc631d1c3add0d3f8936c731e2892d0b0210151185203c24c95": {
+        "title": "2025年，AI抢了谁的“饭碗”？",
+        "link": "https://www.tmtpost.com/7829199.html",
+        "published_date": "Fri, 02 Jan 2026 19:24:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.849597"
+      },
+      "2eae12384803e5161068b73848062d84375e6b5b026dcc0489ea395be1c40db7": {
+        "title": "20亿，桂冠电力锁定西藏世界级水电项目",
+        "link": "https://www.tmtpost.com/7829217.html",
+        "published_date": "Fri, 02 Jan 2026 17:53:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.849753"
+      },
+      "8326bf2d3c1718c0dd0651cb7378fad91b300d01154f45c5f6724f710d68466d": {
+        "title": "新造车2025年复盘：零跑登顶，小鹏逆袭，理想遇挫",
+        "link": "https://www.tmtpost.com/7829222.html",
+        "published_date": "Fri, 02 Jan 2026 17:52:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.850061"
+      },
+      "394cb5253721017ae86b7d9e762a60b979d60ded79ee7a97b23925cc88ec21dd": {
+        "title": "一日一技｜给小米手机套用富士「官方」滤镜",
+        "link": "https://sspai.com/post/104979",
+        "published_date": "Fri, 02 Jan 2026 17:25:00 GMT",
+        "first_seen": "2026-01-02T23:16:46.850354"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-02T08:25:09.177939",
-    "Technology": "2026-01-02T08:25:09.254780",
-    "Finance": "2026-01-02T08:25:09.050292"
+    "AI": "2026-01-02T23:16:46.773468",
+    "Technology": "2026-01-02T23:16:46.860642",
+    "Finance": "2026-01-02T23:16:46.638154"
   }
 }
