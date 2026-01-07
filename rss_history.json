@@ -2598,6 +2598,36 @@
         "link": "https://www.qbitai.com/2026/01/367094.html",
         "published_date": "Tue, 06 Jan 2026 08:54:00 GMT",
         "first_seen": "2026-01-06T23:17:51.971857"
+      },
+      "441c56a7f06d4bf53ab5260cbcccee613336196f35681d9539075a96d2007634": {
+        "title": "曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07-2",
+        "published_date": "Wed, 07 Jan 2026 10:17:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.021414"
+      },
+      "1c83ed8d36d375edbe35946b8eb679b19987592aff44206796ab135b55c84b08": {
+        "title": "近十年后谷歌与波士顿动力再「牵手」，这次要为人形机器人注入「灵魂」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07",
+        "published_date": "Wed, 07 Jan 2026 10:12:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.021591"
+      },
+      "01b777d7c3eed5322b48db1941a30adda9c8536cc3d3b529d896f8f6b454dab0": {
+        "title": "杜比在CES 2026重塑了观影、娱乐的方式",
+        "link": "https://www.qbitai.com/2026/01/367175.html",
+        "published_date": "Wed, 07 Jan 2026 04:47:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.021783"
+      },
+      "db1de410504b294e2d3977bea1b4372e74df14be789bf654af3793cce725a178": {
+        "title": "OceanBase蝉联中国分布式数据库本地部署市场第一，领跑国产数据库",
+        "link": "https://www.qbitai.com/2026/01/367171.html",
+        "published_date": "Wed, 07 Jan 2026 04:36:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.022013"
+      },
+      "e31f2eadd65a694cf0e1a02c26fcf43afe4b2dcfbc733a6d3645cb44793580db": {
+        "title": "李斌回合肥住全季，回应蔚来2025一切",
+        "link": "https://www.qbitai.com/2026/01/367161.html",
+        "published_date": "Wed, 07 Jan 2026 02:11:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.022233"
       }
     },
     "Technology": {
@@ -12632,13 +12662,199 @@
         "link": "https://sspai.com/post/105197",
         "published_date": "Tue, 06 Jan 2026 17:00:00 GMT",
         "first_seen": "2026-01-06T23:17:52.072389"
+      },
+      "9ddbfc9e56c394bff385d687505e0715cc67ba967fc04b105bd77fc9b8bbd99c": {
+        "title": "从查询计划分解到100%MySQL兼容：TDSQL-B并行查询技术的实现与优势",
+        "link": "https://www.infoq.cn/video/9mNHVSu1F30RRhx1cQXM?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:36:00 GMT",
+        "first_seen": "2026-01-07T05:23:06.483737"
+      },
+      "6505cb21ee5c0b8ace3654d2911950868651ff73454578f0319107eabdef9a4c": {
+        "title": "TDSQL-B 数据库核心优化思路：从一体化对等架构到高性能Raft Log存储",
+        "link": "https://www.infoq.cn/video/YiHifNoFAsQUVNJOKxSh?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:36:00 GMT",
+        "first_seen": "2026-01-07T05:23:06.483811"
+      },
+      "aebe4920bcbc47508852e16d8bf04379437c3cc87d3f08aa52d6572b4ed25cc1": {
+        "title": "超大规模化繁为简，TDSQL-B的四大核心适用场景",
+        "link": "https://www.infoq.cn/video/S1mR4SDilW8rCbF60AdI?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:35:00 GMT",
+        "first_seen": "2026-01-07T05:23:06.483822"
+      },
+      "4876b3e836dc5b35311348eab5c58103e044747b39e4280a0d3055a7fea51691": {
+        "title": "如何让GPU 不受扰、CPU 不闲置？TencentOS如意将CPU 利用率从15%提升45%",
+        "link": "https://www.infoq.cn/video/byTh35zoSG24R1Z52lmZ?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:28:00 GMT",
+        "first_seen": "2026-01-07T05:23:06.483834"
+      },
+      "a8159d056ac382eab94d609a83063d7db0eb0743f39dfa0b6bcad3b7f7b84fe7": {
+        "title": "算力稀缺时代，如何把 GPU 用“满”",
+        "link": "https://www.infoq.cn/article/gWlwXB7Z9VBs9cjj9ZCv?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:23:00 GMT",
+        "first_seen": "2026-01-07T05:23:06.483845"
+      },
+      "607c32427996ef1de29febf6802a3a6f2b03dcae30fc74fa78c8c8e711ce97f3": {
+        "title": "英特尔DeepMath引入智能架构，助力大型语言模型提升数学计算能力",
+        "link": "https://www.infoq.cn/article/hQzcUGIrkqibYerlHL0x?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 10:46:00 GMT",
+        "first_seen": "2026-01-07T05:23:06.483855"
+      },
+      "164347f07c5b3e676fe526639e2f6b81f2fefe257956e20110fc686b15bb66e3": {
+        "title": "谷歌 Cloud AI 总监 14 年血泪复盘：AI 时代工程师不可替代的 5 类能力，代码反而排在最后",
+        "link": "https://www.infoq.cn/article/6YfqAgAUBCQijvqdbstB?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-07T05:23:06.483868"
+      },
+      "ea5366a60f2a57be50023d3493bdec79270014e964366091d3c6a539d59333a3": {
+        "title": "DuckDB的WebAssembly客户端支持在浏览器中查询Iceberg数据集",
+        "link": "https://www.infoq.cn/article/KEiZ9wXZ3rXgTHZOgdaY?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 09:33:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.112947"
+      },
+      "751e2104a6b14453ff1692d42de44bdfe413733c2c008316e66eed00d7e85f35": {
+        "title": "华映资本领投，又一清华系具身智能企业「灵御智能」完成千万元级种子＋轮融资 | 融资动态",
+        "link": "https://www.tmtpost.com/7683015.html",
+        "published_date": "Wed, 07 Jan 2026 11:15:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.113572"
+      },
+      "b6410205c15ed87c437d0910015428e962d7d9914b1722e91431146275d4a228": {
+        "title": "黄仁勋新年首秀：除了Rubin芯片,还重新定义了数字员工和物理AI",
+        "link": "https://www.tmtpost.com/7833373.html",
+        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
+        "first_seen": "2026-01-07T05:23:06.483767"
+      },
+      "2f11ee5e4eae9476deafa0501ddb5328480cc0549ec27c333531b2f88463de31": {
+        "title": "左手“保命钱”，右手“未来钱”：拆解黄仁勋的“双螺旋”经营术",
+        "link": "https://www.tmtpost.com/7833151.html",
+        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.114924"
+      },
+      "3a9d1135048264b2924f6de6ad28ff091895c0c0200b48438022fe77bc0fb7dd": {
+        "title": "小米是时候切断和粉丝的脐带了",
+        "link": "https://www.tmtpost.com/7833203.html",
+        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.115297"
+      },
+      "2d4c1950b96d86f752bc889b81a4498dfba945a19aa2be406de63f2d849080bd": {
+        "title": "Physical AI Takes Center Stage at CES 2026 as Nvidia Maps Next Phase of Industry Shift",
+        "link": "https://www.tmtpost.com/7833395.html",
+        "published_date": "Wed, 07 Jan 2026 10:22:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.116804"
+      },
+      "653524fa0760d296223fa481529dcd6071202fac98aae114896bbcf1a49f5f65": {
+        "title": "黄仁勋的皮衣很酷，但工厂的账本不认物理AI",
+        "link": "https://www.tmtpost.com/7832977.html",
+        "published_date": "Wed, 07 Jan 2026 10:17:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.117380"
+      },
+      "a8c2052bb96f7cca7ae451094941c807a1d218c8182803cd4c86e115b225b18e": {
+        "title": "Palantir股票又添新粉，这位分析师并不担心其估值",
+        "link": "https://www.tmtpost.com/7833337.html",
+        "published_date": "Wed, 07 Jan 2026 09:55:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.118191"
+      },
+      "b8534551530af24a7155996e1ab943b42df0c12b77c168a9f350d1e882e27d50": {
+        "title": "人工智能正在“改变”经济格局，Duolingo等五只股票有望受益",
+        "link": "https://www.tmtpost.com/7833335.html",
+        "published_date": "Wed, 07 Jan 2026 09:55:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.119146"
+      },
+      "96f4e29c352caf1ae72ee6819ecc569d210b3bfaf5b9b6690bf4a90b4040254a": {
+        "title": "一群河南人，正在改变中国餐饮历史",
+        "link": "https://www.tmtpost.com/7832925.html",
+        "published_date": "Wed, 07 Jan 2026 09:38:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.119746"
+      },
+      "f2da1bdab139a652532a08ee295fcd921a40703cee4283844ac56ee67141b5a3": {
+        "title": "当“毛孩子”面临8千元生死线，铲屎官能否托举起首个宠物医疗IPO？",
+        "link": "https://www.tmtpost.com/7832956.html",
+        "published_date": "Wed, 07 Jan 2026 09:37:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.120828"
+      },
+      "f7b26a67ce87df53994c58a32b98e3b2ec0d23999bb0268db44ae60a3127be79": {
+        "title": "卡游和Suplay，谁能先跑上市？",
+        "link": "https://www.tmtpost.com/7833257.html",
+        "published_date": "Wed, 07 Jan 2026 09:37:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.121600"
+      },
+      "20676cad0f6f9e134b80d494f70b72663ca72e158b005fabaa110775ba98a18b": {
+        "title": "黄仁勋揭幕2026CES关键词，跟随钛媒体开启“物理AI”时代",
+        "link": "https://www.tmtpost.com/7833193.html",
+        "published_date": "Wed, 07 Jan 2026 09:37:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.122718"
+      },
+      "2ae230a5afd28952fb0bebaa188e8e8ba1bbb9f31bfc464275c9c2a5304c31bd": {
+        "title": "英伟达加速生产H200，黄仁勋CES放话：“要回中国了”",
+        "link": "https://www.tmtpost.com/7833221.html",
+        "published_date": "Wed, 07 Jan 2026 09:21:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.123706"
+      },
+      "467f8a5eca5a733256b3f468d29d666268f5fbdc26c5e8b354edc256b765ed78": {
+        "title": "消费者支出即将转向，这11只股票有望受益",
+        "link": "https://www.tmtpost.com/7833270.html",
+        "published_date": "Wed, 07 Jan 2026 09:20:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.124467"
+      },
+      "15cd53a8021d7d13d7c63a17202cdc1b466e506a299dac4299d5b4135621516b": {
+        "title": "Meta 收购 Manus：巨头“自救系统”的冰山之下",
+        "link": "https://www.tmtpost.com/7832946.html",
+        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-07T05:23:06.483783"
+      },
+      "f85bdba8efb5313b3d8036803391039b0b35e590a706abd3905a91366cef49b5": {
+        "title": "曝光最强超算架构、开源自动驾驶模型，黄仁勋亮出物理AI“全家桶”",
+        "link": "https://www.tmtpost.com/7832911.html",
+        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.127134"
+      },
+      "4b625d85d0b56328dc76f578be41ada1f084f18fc7f09804cbf2ae1f0d193e1c": {
+        "title": "这个冬天，年轻人去批发市场“淘”新衣",
+        "link": "https://www.tmtpost.com/7832905.html",
+        "published_date": "Wed, 07 Jan 2026 08:43:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.128194"
+      },
+      "9f3a3181902ce78ee8e2297c68cee2fb93924f3333c60128151a3d5827fa5795": {
+        "title": "存储猛拉，AI存力超级周期到底有多神？",
+        "link": "https://www.tmtpost.com/7832914.html",
+        "published_date": "Wed, 07 Jan 2026 08:43:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.129118"
+      },
+      "2b3a153ba53810217c9b57a8b9a4465dce2c8cde1899eac5443accaa9e4aeb26": {
+        "title": "黄仁勋说的“物理AI”时代利好中国",
+        "link": "http://www.huxiu.com/article/4824016.html?f=wangzhan",
+        "published_date": "Wed, 07 Jan 2026 11:05:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.130228"
+      },
+      "4fe967b825bb920bac855e6caf7f7f4fc1cb1628bd0209243bc4c8a9d8dec2a2": {
+        "title": "小米YU7咋扛撞？雷军拆车见真相",
+        "link": "http://www.huxiu.com/article/4823982.html?f=wangzhan",
+        "published_date": "Wed, 07 Jan 2026 09:53:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.131191"
+      },
+      "c3d20fef68e7ae4b2bafa7cbca176b2943cfffc8859e23e1387acd4c3f143f99": {
+        "title": "OPPO换小米，微信数据传不过去？问题到底出在哪？",
+        "link": "http://www.huxiu.com/article/4823836.html?f=wangzhan",
+        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.132543"
+      },
+      "831249f2028cdbfd3ba631e2b21d741af1ced245521ccd4b7667b550863653c2": {
+        "title": "当世界尽头成为热搜：一份南极旅游指南",
+        "link": "https://sspai.com/post/104946",
+        "published_date": "Wed, 07 Jan 2026 11:02:00 GMT",
+        "first_seen": "2026-01-07T05:22:57.133518"
+      },
+      "9ca8d7d566274b612e277abeb6c2ea86beb3ad3b7655975a28b8a292bda5aba7": {
+        "title": "派早报：英伟达发布 DLSS 4.5、戴尔发布 XPS 14/16 等",
+        "link": "https://sspai.com/post/105214",
+        "published_date": "Wed, 07 Jan 2026 08:57:00 GMT",
+        "first_seen": "2026-01-07T05:23:06.483798"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-06T23:17:51.994809",
-    "Technology": "2026-01-06T23:18:01.400541",
-    "Finance": "2026-01-06T23:17:51.865810"
+    "AI": "2026-01-07T05:22:57.043463",
+    "Technology": "2026-01-07T05:23:06.491497",
+    "Finance": "2026-01-07T05:22:56.913992"
   }
 }
