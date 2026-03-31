@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-31 06:15
+**最后更新时间**: 2026-03-31 23:31
+
+---
+
+## 🆕 最新更新 (2026-03-31 23:31)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Building better AI benchmarks: How many raters are enough?](https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/)
+**发布时间**: 2026-03-31 16:16
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [公司注册10天，估值逾10亿美元！理想智驾大牛刷出具身创投新热度](https://www.qbitai.com/2026/03/394149.html)
+**发布时间**: 2026-03-31 15:25
+
+#### [智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了](https://www.qbitai.com/2026/03/394135.html)
+**发布时间**: 2026-03-31 12:08
+
+#### [刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！](https://www.qbitai.com/2026/03/394014.html)
+**发布时间**: 2026-03-31 10:18
+
+#### [ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”](https://www.qbitai.com/2026/03/394011.html)
+**发布时间**: 2026-03-31 09:12
+
+#### [智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾](https://www.qbitai.com/2026/03/393984.html)
+**发布时间**: 2026-03-31 08:33
+
+#### [实测拿215项SOTA的Qwen3.5-Omni：摄像头一开，AI给我现场讲论文、撸代码](https://www.qbitai.com/2026/03/393941.html)
+**发布时间**: 2026-03-31 08:22
+
+#### [机器人线下真机对线打PK！这届黑客松可太会玩了](https://www.qbitai.com/2026/03/393887.html)
+**发布时间**: 2026-03-31 06:41
+
+#### [瑞声科技公开人形机器人感知解决方案，释放机器人业务加速落地信号](https://www.qbitai.com/2026/03/393883.html)
+**发布时间**: 2026-03-31 06:06
 
 ---
 
