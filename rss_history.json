@@ -1434,6 +1434,18 @@
         "link": "https://www.qbitai.com/2026/04/398117.html",
         "published_date": "Thu, 09 Apr 2026 06:23:00 GMT",
         "first_seen": "2026-04-09T09:05:52.165859"
+      },
+      "a1dab203de41ec69640ec54e151932ee542da5cd0c2330d9f21c2485c40bc3b6": {
+        "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
+        "link": "https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/",
+        "published_date": "Thu, 09 Apr 2026 11:22:00 GMT",
+        "first_seen": "2026-04-09T23:37:19.777711"
+      },
+      "60fb437923ffe2c06bd3b7acdae8d636e89ce8d64fcc02b1bc1da6b02a8f1557": {
+        "title": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
+        "link": "https://www.qbitai.com/2026/04/398157.html",
+        "published_date": "Thu, 09 Apr 2026 09:38:00 GMT",
+        "first_seen": "2026-04-09T23:37:19.777933"
       }
     },
     "Technology": {
@@ -11696,13 +11708,127 @@
         "link": "https://sspai.com/post/69533",
         "published_date": "Thu, 09 Apr 2026 14:32:00 GMT",
         "first_seen": "2026-04-09T09:05:42.721830"
+      },
+      "ae1de7facebbc0c011c3591ff9afcc67ef5e854040b7d476bcee32b420ed8887": {
+        "title": "【钛晨报】中国自贸试验区扩围至23个，新增内蒙古；腾讯云：5月9日起对AI算力、容器服务及弹性MapReduce（EMR）相关产品刊例价进行调整；消息称特斯拉Cybercab量产启动",
+        "link": "https://www.tmtpost.com/7947269.html",
+        "published_date": "Fri, 10 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-09T23:37:29.284034"
+      },
+      "f762753465cb209b5267f3018417a8d96c6996285ea683c4524ac556aae17962": {
+        "title": "独家 | Happy Horse-1.0确系阿里研发，将于近期正式发布",
+        "link": "https://www.tmtpost.com/7947345.html",
+        "published_date": "Thu, 09 Apr 2026 23:05:00 GMT",
+        "first_seen": "2026-04-09T23:37:29.284001"
+      },
+      "e410362cf1835fef4431f4595fac251f41a930dcdeea043232d593dae6708450": {
+        "title": "AI植发机器人企业磅策医疗完成亿元B轮融资｜融资速递",
+        "link": "https://www.tmtpost.com/7947170.html",
+        "published_date": "Thu, 09 Apr 2026 20:30:00 GMT",
+        "first_seen": "2026-04-09T23:37:29.284059"
+      },
+      "0484c28718d3064021607e0dcdb102209f3fee60bea183f7da417e0b7d518118": {
+        "title": "百花医药易主：米氏7年累亏1.65亿清仓离场，30年“转型老兵”重回国资",
+        "link": "https://www.tmtpost.com/7946992.html",
+        "published_date": "Thu, 09 Apr 2026 19:47:00 GMT",
+        "first_seen": "2026-04-09T23:37:29.284071"
+      },
+      "03e102cf70327ea3ea10cabfa1e184b73a11c2e71b9a42ed4eba7f6ae1204e14": {
+        "title": "SpaceX 的挑战者们：贝索斯和中国军团们追得上吗？",
+        "link": "https://www.tmtpost.com/7946405.html",
+        "published_date": "Thu, 09 Apr 2026 19:14:00 GMT",
+        "first_seen": "2026-04-09T23:37:29.284082"
+      },
+      "e54b02e4dd3af8f90254f0d4d6d63509c06ebf42a80c0451eb2af17635b11781": {
+        "title": "Anthropic挖角微软Azure AI掌舵人，负责AI 基础设施建设",
+        "link": "https://www.tmtpost.com/7947051.html",
+        "published_date": "Thu, 09 Apr 2026 19:13:00 GMT",
+        "first_seen": "2026-04-09T23:37:29.284093"
+      },
+      "22fa1f9f6aa8885195a1ffb75567052af5601c3caa37a1b5c2db87b9e5586368": {
+        "title": "走出ICU的“AI三小龙”，究竟做对了什么？",
+        "link": "https://www.tmtpost.com/7947053.html",
+        "published_date": "Thu, 09 Apr 2026 19:11:00 GMT",
+        "first_seen": "2026-04-09T23:37:29.284103"
+      },
+      "dd3d2f05fd0111be85801c5f4d39d113bcb3be26abb875380420e322d11ebfc8": {
+        "title": "Token之战：连续五周，中国AI靠什么赢了美国AI？",
+        "link": "https://www.tmtpost.com/7947044.html",
+        "published_date": "Thu, 09 Apr 2026 19:11:00 GMT",
+        "first_seen": "2026-04-09T23:37:29.284113"
+      },
+      "7307337ee81a8e636c0867ef348a80802e06b2a7043475ae6114432c24897d63": {
+        "title": "「敢不敢」胜过「能不能」，万字解析可灵 AI 的「非典型」突围路",
+        "link": "https://www.tmtpost.com/7947023.html",
+        "published_date": "Thu, 09 Apr 2026 19:11:00 GMT",
+        "first_seen": "2026-04-09T23:37:29.284126"
+      },
+      "34577bf6320782b8ebb9495219516cd9c70979184f534816a0a7947c78ad3bfd": {
+        "title": "华住难当酒店版“蜜雪冰城”",
+        "link": "https://www.tmtpost.com/7947012.html",
+        "published_date": "Thu, 09 Apr 2026 19:11:00 GMT",
+        "first_seen": "2026-04-09T23:37:19.891157"
+      },
+      "c8d052b71e306d6f99b3205559f7625b3520687288c8cde3395a71eee6a89514": {
+        "title": "Anthropic亲自下场，又一批Agent创业公司死掉了",
+        "link": "https://www.tmtpost.com/7946985.html",
+        "published_date": "Thu, 09 Apr 2026 19:11:00 GMT",
+        "first_seen": "2026-04-09T23:37:19.891773"
+      },
+      "22024ab88388b9ea2b9e3af9d0475bb8942abaff7802ac7ce7ff26ea08d5ee0d": {
+        "title": "江波龙关联公司再诉佰维存储，港股IPO关键期突遭5000万索赔",
+        "link": "https://www.tmtpost.com/7947029.html",
+        "published_date": "Thu, 09 Apr 2026 19:07:00 GMT",
+        "first_seen": "2026-04-09T23:37:19.892372"
+      },
+      "37ba94a76d9927a2c01e6bdc9e2d2f86f0f6c8842b41f55458210cf4c904b903": {
+        "title": "花6万赚100元：夕阳培训班，“套牢”多少老年人的副业梦",
+        "link": "https://www.tmtpost.com/7946871.html",
+        "published_date": "Thu, 09 Apr 2026 18:59:00 GMT",
+        "first_seen": "2026-04-09T23:37:19.893047"
+      },
+      "54e5dce2e2e3b6d26e246de88b1d054be561b057c2363a8e4d1166833fa35ed0": {
+        "title": "保价争议毁口碑，深蓝汽车月销3万仍难摆脱困境",
+        "link": "https://www.tmtpost.com/7946923.html",
+        "published_date": "Thu, 09 Apr 2026 18:59:00 GMT",
+        "first_seen": "2026-04-09T23:37:19.893601"
+      },
+      "e92c963e42e2844a11aca567a7f196f0e8d7050b43020ddcfae757b35c0b4015": {
+        "title": "梭哈黄金的人，现在都怎么样了？",
+        "link": "https://www.tmtpost.com/7946981.html",
+        "published_date": "Thu, 09 Apr 2026 18:59:00 GMT",
+        "first_seen": "2026-04-09T23:37:19.894115"
+      },
+      "e2e1f5524204829d70ce69ef30d379da3b2239b1fe7e4eaa03e96cd0235fcc7e": {
+        "title": "连尚集团全球总部落子上海临港新片区  赋能数字文化出海与科创升级",
+        "link": "https://www.tmtpost.com/7947033.html",
+        "published_date": "Thu, 09 Apr 2026 18:51:00 GMT",
+        "first_seen": "2026-04-09T23:37:19.894810"
+      },
+      "cdf9eb8e6b4427d7082334203cfe9471c26b50fb341815f2cbcca8ae5bded8be": {
+        "title": "1.24亿抢科学家后，大厂盯上13岁AI产品经理",
+        "link": "https://www.tmtpost.com/7946563.html",
+        "published_date": "Thu, 09 Apr 2026 18:05:00 GMT",
+        "first_seen": "2026-04-09T23:37:29.284048"
+      },
+      "f23cfa1db9e0f751f6415e3d86ebbff6bc06ad2bf55afd2ed6655346dcfdd1b1": {
+        "title": "AI 时代，我关于教育的思考",
+        "link": "https://sspai.com/post/108300",
+        "published_date": "Thu, 09 Apr 2026 17:38:00 GMT",
+        "first_seen": "2026-04-09T23:37:19.896326"
+      },
+      "1995ea707fb125d5dfcab834c6a8415cb3567ab73f37238734511aac85533f7e": {
+        "title": "聚焦AI，深耕智造丨2026 赋能开发者大会圆满举办！",
+        "link": "https://www.infoq.cn/article/UFSb4zOXu9IKc6lhXZdQ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 09 Apr 2026 17:31:00 GMT",
+        "first_seen": "2026-04-09T23:37:19.897179"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-09T09:05:52.172789",
-    "Technology": "2026-04-09T09:05:52.005727",
-    "Finance": "2026-04-09T09:05:52.024228"
+    "AI": "2026-04-09T23:37:19.808148",
+    "Technology": "2026-04-09T23:37:29.285512",
+    "Finance": "2026-04-09T23:37:19.668555"
   }
 }
