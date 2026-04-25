@@ -1,7 +1,103 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-24 09:30
+**最后更新时间**: 2026-04-25 06:21
+
+---
+
+## 🆕 最新更新 (2026-04-25 06:21)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [百型智能创始人韩美：Agent成了“销冠”，人类才能更专注策略](https://www.tmtpost.com/7966271.html)
+**发布时间**: 2026-04-25 14:14
+
+#### [全球变压器超级缺口，激活中国特高压产业机会](https://www.tmtpost.com/7966566.html)
+**发布时间**: 2026-04-25 11:53
+
+#### [2026北京车展：从七大黑科技看全球最大车展](https://www.tmtpost.com/7966574.html)
+**发布时间**: 2026-04-25 10:16
+
+#### [DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？](https://www.tmtpost.com/7966538.html)
+**发布时间**: 2026-04-25 10:16
+
+#### [抖音本地生活“断舍离”](https://www.tmtpost.com/7966611.html)
+**发布时间**: 2026-04-25 09:54
+
+#### [DeepSeek-V4发布，黄仁勋的担忧成真了](https://www.tmtpost.com/7966555.html)
+**发布时间**: 2026-04-25 09:47
+
+#### [GPT-5.5实测：更聪明，也更爱“说谎”](https://www.tmtpost.com/7966667.html)
+**发布时间**: 2026-04-25 09:47
+
+#### [月暗与DeepSeek的“听牌”时刻](https://www.tmtpost.com/7966608.html)
+**发布时间**: 2026-04-25 09:47
+
+#### [DeepSeek不想只做大模型了](https://www.tmtpost.com/7966836.html)
+**发布时间**: 2026-04-25 09:31
+
+#### [腾讯大模型重回牌桌了吗？](https://www.tmtpost.com/7966804.html)
+**发布时间**: 2026-04-25 09:31
+
+#### [AI打倒了英特尔，AI又救了英特尔](https://www.tmtpost.com/7966888.html)
+**发布时间**: 2026-04-25 09:22
+
+#### [南大最新研究：年化40%的骗局面前，AI比人类更清醒](https://www.tmtpost.com/7964880.html)
+**发布时间**: 2026-04-25 08:49
+
+#### [Edge AI Daily 早报（4月25日）](https://www.tmtpost.com/7966852.html)
+**发布时间**: 2026-04-25 08:39
+
+#### [独家对话帕西尼许晋诚：一颗199的触觉传感器如何撑起百亿估值](https://www.tmtpost.com/7966743.html)
+**发布时间**: 2026-04-24 23:27
+
+#### [上市即变脸，并购再“续命”：北方长龙4亿"接盘"顺义科技，押注智能检测](https://www.tmtpost.com/7966754.html)
+**发布时间**: 2026-04-24 22:59
+
+#### [美股燃气轮机龙头订单爆满，中国厂商有哪些机会](https://www.tmtpost.com/7966472.html)
+**发布时间**: 2026-04-24 19:07
+
+#### [华为异军突起，速腾份额减少，激光雷达迎来双寡头时代](https://www.tmtpost.com/7965877.html)
+**发布时间**: 2026-04-24 18:58
+
+#### [狂飙之后，赚钱为王](https://www.tmtpost.com/7966471.html)
+**发布时间**: 2026-04-24 18:58
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践](https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-25 14:00
+
+#### [Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险](https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-25 10:00
+
+#### [复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案](https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 19:18
+
+#### [Snowflake Cortex Code 的规范驱动开发：将 SDLC 方法论引入 AI 辅助工作流 ｜ 技术实践](https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 18:51
+
+#### [Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了](https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 18:46
+
+#### [当互联网用AI卷效率时，这家公司先问了一连串“能不能”](https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 18:39
+
+#### [Meta 开始记录员工每一次点击：AI 要接管工作，先监控会工作的人](https://www.infoq.cn/article/ur7bvh7ayrDBPY1rTVtP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 18:34
+
+#### [Meta“Token榜”逼疯打工人，一夜烧掉公司几万刀！AI时代Token焦虑越来越离谱](https://www.infoq.cn/article/GPGgiqtS9tCiHjNkUOOd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:59
+
+#### [智源FlagOS完成DeepSeek-V4-Flash在八款芯片Day0适配，实现三重技术突破](https://www.infoq.cn/article/ua0m0lj6zOcEI6GGge72?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:29
+
+#### [DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权](https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:23
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/109050)
+**发布时间**: 2026-04-24 18:17
 
 ---
 
