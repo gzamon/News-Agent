@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-    <lastBuildDate>Wed, 20 May 2026 00:01:20 GMT</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 00:04:00 GMT</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 00:07:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery</title>
-      <link>https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/</link>
-      <description>&lt;![CDATA[Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery]]&gt;</description>
-      <pubDate>Tue, 19 May 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/</guid>
+      <title>智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速</title>
+      <link>https://www.qbitai.com/2026/05/420753.html</link>
+      <description>&lt;![CDATA[智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420753.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026</title>
+      <link>https://www.qbitai.com/2026/05/420743.html</link>
+      <description>&lt;![CDATA[太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420743.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>VC、品牌顾问、编剧，正在批量把自己做成AI</title>
+      <link>https://www.qbitai.com/2026/05/420703.html</link>
+      <description>&lt;![CDATA[VC、品牌顾问、编剧，正在批量把自己做成AI]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 10:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420703.html</guid>
       <category>AI</category>
     </item>
   </channel>
