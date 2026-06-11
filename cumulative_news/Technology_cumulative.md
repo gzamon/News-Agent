@@ -1,7 +1,139 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-10 00:11
+**最后更新时间**: 2026-06-11 00:14
+
+---
+
+## 🆕 最新更新 (2026-06-11 00:14)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】国家发展改革委：抓紧研究储备一批针对性、操作性强的政策工具，根据需要及时出台实施；SpaceX的首次公开募股吸引了中东财富基金的数十亿美元认购；千问发布首个高考志愿填报Agent](https://www.tmtpost.com/8023011.html)
+**发布时间**: 2026-06-11 07:20
+
+#### [国资腾挪背后的业绩救赎：摘帽未满月，张家界3.55亿入主天子山索道 | 并购一线](https://www.tmtpost.com/8022953.html)
+**发布时间**: 2026-06-10 20:51
+
+#### [真健康医疗IPO：最值钱的环节，不在机器人手里](https://www.tmtpost.com/8022688.html)
+**发布时间**: 2026-06-10 18:51
+
+#### [钻石之后，英伟达又带火了陶瓷](https://www.tmtpost.com/8022661.html)
+**发布时间**: 2026-06-10 18:33
+
+#### [AI正在猎杀上一代独角兽](https://www.tmtpost.com/8022184.html)
+**发布时间**: 2026-06-10 18:22
+
+#### [十年前跨界医药的上市公司，现在怎样了？](https://www.tmtpost.com/8022033.html)
+**发布时间**: 2026-06-10 18:22
+
+#### [微信要掀千问的桌](https://www.tmtpost.com/8022217.html)
+**发布时间**: 2026-06-10 18:22
+
+#### [Vibe Coding到Vibe Working，职场人该学会指挥Agent团队了](https://www.tmtpost.com/8022563.html)
+**发布时间**: 2026-06-10 18:22
+
+#### [Siri补齐短板，苹果AI还需关键一跃](https://www.tmtpost.com/8021976.html)
+**发布时间**: 2026-06-10 18:22
+
+#### [车轮二十年：货车司机的夹缝人生——一名重卡司机的时代生存实录](https://www.tmtpost.com/8021962.html)
+**发布时间**: 2026-06-10 18:22
+
+#### [全球航空业单客利润仅30元：钱去哪了？](https://www.tmtpost.com/8021915.html)
+**发布时间**: 2026-06-10 18:22
+
+#### [微信AI真正该抄的作业，在谷歌这里](https://www.tmtpost.com/8022663.html)
+**发布时间**: 2026-06-10 18:21
+
+#### [阿里重回大集权时代](https://www.tmtpost.com/8021930.html)
+**发布时间**: 2026-06-10 18:21
+
+#### [毛利43.9%、经营现金流为负，安克创新的钱去哪了？｜出海参考](https://www.tmtpost.com/8022609.html)
+**发布时间**: 2026-06-10 17:32
+
+#### [儿童手表应该做减法了](https://www.tmtpost.com/8022598.html)
+**发布时间**: 2026-06-10 17:23
+
+#### [国资接盘坏账纾困后，南新制药又因财务造假沦为ST](https://www.tmtpost.com/8022560.html)
+**发布时间**: 2026-06-10 17:02
+
+#### [不做通用AI助手，先做好一个垂直Agent](https://www.tmtpost.com/8021692.html)
+**发布时间**: 2026-06-10 16:18
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI 为 Codex 智能体打造安全的 Windows 沙盒](https://www.infoq.cn/article/P3C52z1QFIgM0oBSIiXO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 18:30
+
+#### [大人，AI编程又变天了！Claude Code之父、龙虾创始人同时力捧新范式，杀死提示词工程？](https://www.infoq.cn/article/W3cHyeWfH0fbisevdoK6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 18:06
+
+#### [完成亿元天使轮融资，华超神控押注 AI 超声脑机接口](https://www.infoq.cn/article/C1Fqp2WOao7d72b1kHR1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 18:00
+
+#### [Anthropic 祭出双旗舰模型 Fable、Mythos，屠榜所有基测！网友：除了贵没毛病](https://www.infoq.cn/article/SzLqxwcXt941I2eZclFK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 18:00
+
+#### [基于国产 GPU 全栈训练，摩尔线程 MusaCoder 正式开源：KernelBench 得分超越 Opus 4.7](https://www.infoq.cn/article/zrRC0hYrZ2K49JVWt49E?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 17:52
+
+#### [TypeORM 历经近十年发展终于迎来 1.0 版本，标志着项目维护工作重启](https://www.infoq.cn/article/UjpPCzo8RPwNIt0pSsVp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 17:04
+
+#### [从 Computer Use到 Datacenter Use：如何让 AI Agent 像调用函数一样驱动数据中心？](https://www.infoq.cn/article/iSlYBH5XfQ6RCJrbaqOU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 16:33
+
+#### [零售与消费品公司如何在宏观经济波动中实现同比增长 ｜ 技术趋势](https://www.infoq.cn/article/k4K56JbfmpfPXX2eqwR5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 16:29
+
+#### [AI Native 的门槛，是把你的公司写下来](https://www.infoq.cn/article/KAqFLsHffhA56VFrekTu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 16:28
+
+#### [边缘推理成为AI走向物理世界的核心战场](https://www.infoq.cn/article/RPzLvb6arzMasZuZfmD8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 16:19
+
+#### [精彩预告：“Token 大爆炸〞前夜，数据基础设施何以成为新的变量？](https://www.infoq.cn/video/6T4qfkUryNoFqOwZtLtV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 14:40
+
+#### [仅 6% 企业能完全搞定 AI 治理，SAP 力推 “自主运营企业” 新模式](https://www.infoq.cn/article/SF45FokGJ2RzGZI4c1lb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 14:14
+
+#### [如何通过数据驱动的对话文化支撑平台工程](https://www.infoq.cn/article/bmqoUAoTCIChMJfB98l2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 14:00
+
+#### [业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地](https://www.infoq.cn/article/FDIT4N6S583uNKGmUm8F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 13:59
+
+#### [亚马逊云科技采用随机图理论取代数据中心的胖树网络，路由器数量减少 69%](https://www.infoq.cn/article/moJa8OHeY7DXt8rFMRbK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 11:28
+
+#### [开幕前｜为什么说看懂WAIC生态，才算读懂中国AI的未来](https://www.infoq.cn/article/x6kuFZ6QEGbZbotrM0YG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 10:46
+
+#### [Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海](https://www.infoq.cn/article/cAWaKiuf9U4MNkjyfKYa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 10:00
+
+#### [Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI](https://www.infoq.cn/article/U1uHOeZUQ3wdaT5ypf08?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 09:44
+
+#### [深入了解谷歌全球服务体系中的 A/B 测试协调系统](https://www.infoq.cn/article/i1mYsmdUbd63PZRIhXdC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 09:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [线下活动｜周日到广州来，给你一张过去的 CD](https://sspai.com/post/110911)
+**发布时间**: 2026-06-10 17:30
+
+#### [又是一年 618：可以直接抄作业的护肤搭配清单](https://sspai.com/post/110614)
+**发布时间**: 2026-06-10 15:00
+
+#### [告别阅读焦虑：一份硬核科学阅读指南](https://sspai.com/post/110557)
+**发布时间**: 2026-06-10 11:29
+
+#### [这些人用实测，给麦金獭钢化膜交了份真实答卷](https://sspai.com/post/110868)
+**发布时间**: 2026-06-10 11:00
+
+#### [派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等](https://sspai.com/post/110925)
+**发布时间**: 2026-06-10 08:14
 
 ---
 
