@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 11 Jul 2026 07:09:00 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2026 07:11:37 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 23:51:00 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 23:53:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -15,18 +15,10 @@
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>中国首个十万卡集群落成！全国产算力支撑“十万卡时代”</title>
-      <link>https://www.qbitai.com/2026/07/447891.html</link>
+      <link>https://www.qbitai.com/2026/07/447902.html</link>
       <description>&lt;![CDATA[中国首个十万卡集群落成！全国产算力支撑“十万卡时代”]]&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 06:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/447891.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent</title>
-      <link>https://www.qbitai.com/2026/07/447873.html</link>
-      <description>&lt;![CDATA[GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent]]&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 05:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/447873.html</guid>
+      <pubDate>Sat, 11 Jul 2026 10:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/447902.html</guid>
       <category>AI</category>
     </item>
   </channel>
