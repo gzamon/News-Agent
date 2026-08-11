@@ -11234,13 +11234,67 @@
         "link": "http://www.geekpark.net/news/368640",
         "published_date": "Tue, 11 Aug 2026 08:48:00 GMT",
         "first_seen": "2026-08-11T05:51:47.027889"
+      },
+      "c329d1e106b8c9474d194536edbc8b708387a1ce6169a1e8d0235f7c4d49fcd6": {
+        "title": "王兴重仓王兴兴，这盘棋到底有多大？",
+        "link": "https://www.tmtpost.com/8098120.html",
+        "published_date": "Tue, 11 Aug 2026 16:40:00 GMT",
+        "first_seen": "2026-08-11T08:51:26.143842"
+      },
+      "2bd2b4dc5e80833c139be5d563af80c98b585b397982b3b9d2b144d0ce40e2a5": {
+        "title": "盒马越来越“轻”",
+        "link": "https://www.tmtpost.com/8098669.html",
+        "published_date": "Tue, 11 Aug 2026 16:40:00 GMT",
+        "first_seen": "2026-08-11T08:51:26.143986"
+      },
+      "40e539ab620cc6753dbfde525d5b2b0b87ad039ba1c618590af28250f70c5878": {
+        "title": "Apple Reportedly Testing CXMT: What Signal Is the Memory Market Sending?",
+        "link": "https://www.tmtpost.com/8099034.html",
+        "published_date": "Tue, 11 Aug 2026 15:01:00 GMT",
+        "first_seen": "2026-08-11T08:51:26.144170"
+      },
+      "4521771eb7a98ef8144a7e0dfa656637d1708f7e3d0fc30378178c057e9eb73c": {
+        "title": "OpenAI 代理群利用 Artifactory 零日漏洞逃离沙箱并入侵 Hugging Face",
+        "link": "https://www.infoq.cn/article/gkzDEyCF5U4DtKAa1Eee?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 11 Aug 2026 16:36:00 GMT",
+        "first_seen": "2026-08-11T08:51:26.144463"
+      },
+      "216a04e9b0876f86bfe3812d9def5eea4e30db41ee5787346b93d48211a748df": {
+        "title": "腾讯WorkBuddy升级多端同步，支持手机远程授权和停止电脑端任务",
+        "link": "https://www.infoq.cn/article/kSqvyjVIwTvXsumYgRtf?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 11 Aug 2026 14:28:00 GMT",
+        "first_seen": "2026-08-11T08:51:26.144736"
+      },
+      "15e44f08ff3bef8da5a34dec463c531b9abe21fe49b79624957b1b52cec06064": {
+        "title": "让 Agent 读懂业务世界：Snowflake Cortex Agents 的本体驱动推理实践",
+        "link": "https://www.infoq.cn/article/2NsA9FT1uhjmdRrwzOo3?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 11 Aug 2026 14:18:00 GMT",
+        "first_seen": "2026-08-11T08:51:26.145220"
+      },
+      "33c6681f49cc3ff232f2cd376483a2dadf5c69f6155e3e5c341e7c2098528ae4": {
+        "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
+        "link": "http://www.geekpark.net/news/368667",
+        "published_date": "Tue, 11 Aug 2026 15:30:00 GMT",
+        "first_seen": "2026-08-11T08:51:26.145547"
+      },
+      "91e964df4825e5b63c99c92a40e495728b595212d415229cd5ffd59fdae17202": {
+        "title": "Seedance 2.5 上线后，LibTV 先帮创作者「学会」了新模型",
+        "link": "http://www.geekpark.net/news/368665",
+        "published_date": "Tue, 11 Aug 2026 15:21:00 GMT",
+        "first_seen": "2026-08-11T08:51:26.146103"
+      },
+      "7bb277e3199a10c1bf7e621ed2ec2109f99d8a0a4787c7f0200f84c4c6ce55dc": {
+        "title": "走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线",
+        "link": "https://sspai.com/post/112887",
+        "published_date": "Tue, 11 Aug 2026 13:59:00 GMT",
+        "first_seen": "2026-08-11T08:51:26.146571"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-08-11T05:51:46.931792",
-    "Technology": "2026-08-11T05:51:56.331407",
-    "Finance": "2026-08-11T05:51:56.350845"
+    "AI": "2026-08-11T08:51:26.073211",
+    "Technology": "2026-08-11T08:51:26.171844",
+    "Finance": "2026-08-11T08:51:26.191404"
   }
 }
