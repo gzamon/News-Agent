@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-12 09:07
+**最后更新时间**: 2026-08-13 06:13
+
+---
+
+## 🆕 最新更新 (2026-08-13 06:13)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [倒计时｜2026世界机器人大会主论坛议程发布！](https://www.qbitai.com/2026/08/471668.html)
+**发布时间**: 2026-08-13 05:10
+
+#### [刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5](https://www.qbitai.com/2026/08/471642.html)
+**发布时间**: 2026-08-13 03:54
+
+#### [360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台](https://www.qbitai.com/2026/08/471624.html)
+**发布时间**: 2026-08-13 03:11
+
+#### [引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布](https://www.qbitai.com/2026/08/471451.html)
+**发布时间**: 2026-08-13 03:00
+
+#### [《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵](https://www.qbitai.com/2026/08/471254.html)
+**发布时间**: 2026-08-12 13:46
+
+#### [Anthropic CEO整天神神叨叨，投资人受不了了](https://www.qbitai.com/2026/08/471162.html)
+**发布时间**: 2026-08-12 13:38
+
+#### [国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键](https://www.qbitai.com/2026/08/471049.html)
+**发布时间**: 2026-08-12 13:10
+
+#### [紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力](https://www.qbitai.com/2026/08/471030.html)
+**发布时间**: 2026-08-12 10:54
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Empty shelves or lost keys? Recall is the bottleneck for parametric factuality](https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/)
+**发布时间**: 2026-08-12 09:51
 
 ---
 
